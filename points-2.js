@@ -19,6 +19,6 @@ var pointJson = {
         "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
         "media": "https://raw.githubusercontent.com/iuansonleung/CEP/main/Downsampled/ThumbnailsHong%20Kong%20Wetland%20Park-C.jpg"
       },
-    },
+    }
   ]
-},
+}
