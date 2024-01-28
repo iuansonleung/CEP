@@ -49,7 +49,7 @@ var pointJson = {
         "media": "https://github.com/EcoLitDes/map/blob/0e081c3770865a359cc82d4233c9bdb128382b7a/Thumbnail/Thumbnail-YH.jpg?raw=true"
       },
     },
-     {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@ var pointJson = {
         "media": "https://github.com/EcoLitDes/map/blob/0e081c3770865a359cc82d4233c9bdb128382b7a/Thumbnail/Thumbnail-DS.jpg?raw=true"
       },
     },
-     {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -73,7 +73,7 @@ var pointJson = {
         "media": "https://github.com/EcoLitDes/map/blob/0e081c3770865a359cc82d4233c9bdb128382b7a/Thumbnail/Thumbnail-WH.jpg?raw=true"
       },
     },
-     {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -85,7 +85,7 @@ var pointJson = {
         "media": "https://github.com/EcoLitDes/map/blob/0e081c3770865a359cc82d4233c9bdb128382b7a/Thumbnail/Thumbnail-IBC.jpg?raw=true"
       },
     },
-     {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -97,7 +97,7 @@ var pointJson = {
         "media": "https://github.com/EcoLitDes/map/blob/0e081c3770865a359cc82d4233c9bdb128382b7a/Thumbnail/Thumbnail-HSH.jpg?raw=true"
       },
     },
-      {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
