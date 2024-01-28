@@ -10,8 +10,20 @@ var pointJson = {
       "properties": {
         "name": "Hong Kong Wetland Park",
         "url": "https://ecodesignliteracy.hku.hk/hong-kong-wetland-park",
-        "media": "https://raw.githubusercontent.com/iuansonleung/CEP/main/Downsampled/ThumbnailsHong%20Kong%20Wetland%20Park-C.jpg"
+        "media": "https://github.com/EcoLitDes/map/blob/0e081c3770865a359cc82d4233c9bdb128382b7a/Thumbnail/Thumbnail-HKWP.jpg?raw=true"
       },
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.9640511,22.3043674,0]
+      },
+      "properties": {
+        "name": "Tung Chung New Town Extension (East) Eco-shoreline",
+        "url": "https://ecodesignliteracy.hku.hk/tung-chung-ecoshoreline",
+        "media": "https://github.com/EcoLitDes/map/blob/0e081c3770865a359cc82d4233c9bdb128382b7a/Thumbnail/Thumbnail-TCE.jpg?raw=true"
+      },
+    },
   ]
 }
